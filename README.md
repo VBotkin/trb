@@ -39,7 +39,7 @@ Format and original implementation from [bontibon/kjv](https://github.com/bontib
 
 ## Build
 
-kjv can be built by cloning the repository and then running make:
+trb can be built by cloning the repository and then running make:
 
     git clone https://github.com/VBotkin/trb.git
     cd trb
